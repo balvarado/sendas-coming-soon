@@ -1,5 +1,5 @@
 // Set the target date (change this date as needed)
-const launchDate = new Date("June 1, 2025 00:00:00").getTime();
+const launchDate = new Date("September 1, 2025 00:00:00").getTime();
 
 // Update the countdown every second
 const timer = setInterval(() => {
